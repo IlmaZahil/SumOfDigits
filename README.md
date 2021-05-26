@@ -4,4 +4,4 @@
 2+9 = 11 
 1+1 = 1
 
-This will print out the final answer of sum of digits.
+This will print out the final answer of sum of digits as 1.
